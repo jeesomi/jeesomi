@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @jeesomi
-- 👀 I’m interested in learning new thing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on  artificial intelligence and data science project
+Python learner interested in Data Science and Artificial Intelligence.
+
+Currently building my foundation in:
+- Python
+- Data Analysis
+- Machine Learning
 - 📫 you can email me on my email(somisalimi604@gmail.com)
 
 <!---
